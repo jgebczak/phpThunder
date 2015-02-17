@@ -1,0 +1,17 @@
+*.swp
+*.DS_Store
+*.gz
+*.bz2
+*.zip
+*.tar
+*TRASH*
+.Trash-*
+*.log
+*.old
+temp.txt
+notes.txt
+pt-todo
+composer.json
+examples
+help_md.html
+*~
